@@ -33,3 +33,26 @@ This is a simple Library Management System written in C++ that allows users to r
 2. Compile the code using a C++ compiler:
    ```bash
    g++ -o LibrarySystem LibrarySystem.cpp
+
+   run the executable
+
+   ./LibrarySystem
+
+### Program Flow
+
+Upon starting the program, the following menu will appear:
+
+
+1. **Login**: Enter your username and passcode. After three unsuccessful attempts, the program will restart.
+2. **Register**: Register a new username and passcode (5-digit passcode is required).
+3. **View Books**: Once logged in, you can view available books.
+4. **Borrow Books**: After logging in, enter the book's name to borrow it.
+5. **Return Books**: After logging in, return any borrowed books by entering the book name.
+6. **Exit**: Exit the system.
+
+### Notes
+
+   Make sure that the users.csv and library_records.csv files exist in the same directory as the executable.
+   The program does not handle multiple users simultaneously. It is designed for single-user access at a time.
+
+
