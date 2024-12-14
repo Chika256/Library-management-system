@@ -36,7 +36,7 @@ This is a simple Library Management System written in C++ that allows users to r
 
    ./LibrarySystem
 
-### Program Flow
+## Program Flow
 
 Upon starting the program, the following menu will appear:
 
