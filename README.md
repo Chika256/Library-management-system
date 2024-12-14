@@ -48,9 +48,9 @@ Upon starting the program, the following menu will appear:
 5. **Return Books**: After logging in, return any borrowed books by entering the book name.
 6. **Exit**: Exit the system.
 
-### Notes
+## Notes
 
-- **Make sure that the users.csv and library_records.csv files exist in the same directory as the executable.
-- **The program does not handle multiple users simultaneously. It is designed for single-user access at a time.
+- Make sure that the users.csv and library_records.csv files exist in the same directory as the executable.
+- The program does not handle multiple users simultaneously. It is designed for single-user access at a time.
 
 
