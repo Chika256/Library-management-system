@@ -50,7 +50,7 @@ Upon starting the program, the following menu will appear:
 
 ### Notes
 
-- Make sure that the users.csv and library_records.csv files exist in the same directory as the executable.
-- The program does not handle multiple users simultaneously. It is designed for single-user access at a time.
+- **Make sure that the users.csv and library_records.csv files exist in the same directory as the executable.
+- **The program does not handle multiple users simultaneously. It is designed for single-user access at a time.
 
 
